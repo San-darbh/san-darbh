@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm San
 
-<!--
-**San-darbh/san-darbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student  
+💻 Learning Programming  
+🔥 Interested in Web Development  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- C Programming
+- Java
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- JavaScript
+- Data Structures
+
+## 📫 Contact Me
+- Instagram: sandarbhk
+- Email: sandarbhboss@gmail.com
