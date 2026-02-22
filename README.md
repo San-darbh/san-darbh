@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1a_p8TUL1By1OwID_axpwm0FGutKT_ol-" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm San</h1>
+<h1 align="center">Hi 👋, I'm Sandarbh</h1>
 <h3 align="center">🎓 Student | 💻 Programmer | 🚀 Future Developer</h3>
 
 ---
